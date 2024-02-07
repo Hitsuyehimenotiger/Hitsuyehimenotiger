@@ -9,9 +9,9 @@
 
 ![Jéfte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitsuyehimenotiger&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
-- Sou analista de suporte computacional/técnico em informática, com formação acadêmica em Redes de Computadores. Minha jornada profissional inclui experiência significativa em software de gestão hospitalar MV e sistema de gerenciamento de Provedor - IXC Soft. Possuo habilidades em análise técnica e correção de erros em sistemas operacionais e softwares diversos, manutenção/limpeza de hardwares e infraestrutura de redes.
+- Sou analista de suporte computacional/técnico em informática, com formação acadêmica em Redes de Computadores. Possuo habilidades em análise técnica e correção de erros em sistemas operacionais e softwares diversos, manutenção/limpeza de hardwares e infraestrutura de redes.
 
-- Atualmente estou direcionando meus estudos para a programação com Python, automação de processos (RPA) e banco de dados com SQL (Oracle, SQL Server, MySQL). Estou constantemente engajado em cursos online para aprimorar minhas habilidades e expandir meu conhecimento.
+- Atualmente estou direcionando meus estudos para a programação com Python, automação de processos (RPA) e banco de dados com SQL (Oracle, SQL Server, MySQL). Estou participando do curso de formação mestre pythonista, automação RPA, SQL e analista de dados na Dev Aprender. Onde recebo freelancers de automação RPA. Estou constantemente engajado em cursos online para aprimorar minhas habilidades e expandir meu conhecimento.
 
 - Estou aberto a conexões com entusiastas, desenvolvedores e profissionais de tecnologia para trocar experiências e conhecimentos, além de estar disponível para oportunidades de estágio ou colaborações em projetos.
 
