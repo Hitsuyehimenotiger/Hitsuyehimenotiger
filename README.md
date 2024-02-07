@@ -26,9 +26,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-    " />
-</div><br/>
-
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</div><br/><br/>
 
 - Fique à vontade para me contatar se tiver alguma pergunta, sugestão ou apenas para dizer oi!
