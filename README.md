@@ -9,7 +9,7 @@
 
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.
 
-- Sou técnico em informática e analista de suporte computacional, com formação acadêmica em Redes de Computadores. Minha jornada profissional inclui experiência significativa em software de gestão hospitalar MV e sistema de gerenciamento de Provedor - IXC Soft. Possuo habilidades em análise técnica e correção de erros em sistemas operacionais e softwares diversos, manutenção/limpeza de hardwares e infraestrutura de redes.
+- Sou técnico em informática/analista de suporte computacional, com formação acadêmica em Redes de Computadores. Minha jornada profissional inclui experiência significativa em software de gestão hospitalar MV e sistema de gerenciamento de Provedor - IXC Soft. Possuo habilidades em análise técnica e correção de erros em sistemas operacionais e softwares diversos, manutenção/limpeza de hardwares e infraestrutura de redes.
 
 - Atualmente estou direcionando meus estudos para a programação com Python, automação de processos (RPA) e banco de dados com SQL (Oracle, SQL Server, MySQL). Estou constantemente engajado em cursos online para aprimorar minhas habilidades e expandir meu conhecimento.
 
