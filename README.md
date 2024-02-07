@@ -19,7 +19,7 @@
 
 - [BOT de automação do WhatSapp](https://github.com/Hitsuyehimenotiger/Projetos-Freelancer/tree/main/BOT_WhatsApp_Mensagens_Automaticas_em_Massa): BOT do WhatsApp que fiz para atender uma demanda Freelancer. Consiste em um executável que envia uma mensagem personalizada em massa para todos os contatos salvos em uma planilha excel.
 
-- [BOT de automação de processos OAB-RO](https://github.com/Hitsuyehimenotiger/Python-Automation/tree/main): Bot de automação de registros de processos da OAB de Rondônia que fiz para testar conhecimento (Tive ajuda de um amigo para otimizá-lo). Em um executável o usuário digita o número da OAB do advogado e o BOT lista de forma automática todos os processos e andamento que estão vinculado ao advogado com a OAB especificada, salva tudo em uma planilha excel de forma organizada.
+- [BOT de automação de processos OAB-RO](https://github.com/Hitsuyehimenotiger/Projetos-Freelancer/tree/main/BOT_OAB/Code): Bot de automação de registros de processos da OAB de Rondônia que fiz para testar conhecimento (Tive ajuda de um amigo para otimizá-lo). Em um executável o usuário digita o número da OAB do advogado e o BOT lista de forma automática todos os processos e andamento que estão vinculado ao advogado com a OAB especificada, salva tudo em uma planilha excel de forma organizada.
 
 ## Linguagens e Ferramentas
 
