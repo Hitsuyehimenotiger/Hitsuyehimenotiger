@@ -5,6 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5569993635880&text=Olá%2C+vim+pelo+link+do+seu+perfil+no+GitHub.)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hitsuyehimenotiger?igsh=NWoyd25jeDZ6ZnV4)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31htm7cqkwkamlcplaps7fmqehua)
+
 ![Jéfte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitsuyehimenotiger&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
 - Sou analista de suporte computacional/técnico em informática, com formação acadêmica em Redes de Computadores. Minha jornada profissional inclui experiência significativa em software de gestão hospitalar MV e sistema de gerenciamento de Provedor - IXC Soft. Possuo habilidades em análise técnica e correção de erros em sistemas operacionais e softwares diversos, manutenção/limpeza de hardwares e infraestrutura de redes.
